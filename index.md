@@ -8,24 +8,10 @@ Kom met ons naar het Code Café!
 
 Rinse is een steen goede docent!
 
-Maurice is een kei in Javascript!
+Maurice is kei goed in Javascript!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```javascript
+console.log("Kom naar het Code Café")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
