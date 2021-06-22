@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Code Café
 
-You can use the [editor on GitHub](https://github.com/het-code-cafe/webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Wij bieden cursussen aan op het gebied van IT! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kom met ons naar het Code Café!
 
 ### Markdown
 
