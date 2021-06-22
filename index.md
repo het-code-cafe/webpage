@@ -4,9 +4,11 @@ Wij bieden cursussen aan op het gebied van IT!
 
 Kom met ons naar het Code Café!
 
-### Markdown
+### Docenten
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Rinse is een steen goede docent!
+
+Maurice is een kei in Javascript!
 
 ```markdown
 Syntax highlighted code block
